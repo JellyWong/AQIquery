@@ -8,6 +8,6 @@ a txt file called "weather.txt"
 
 Here are three screenshots below.
 
-[Alt text](https://github.com/JellyWong/AQIquery/blob/master/screenshots/1.png)
-[Alt text](https://github.com/JellyWong/AQIquery/blob/master/screenshots/2.png)
-[Alt text](https://github.com/JellyWong/AQIquery/blob/master/screenshots/3.png)
+[Alt text](https://github.com/JellyWong/AQIquery/raw/master/screenshots/1.png)
+[Alt text](https://github.com/JellyWong/AQIquery/raw/master/screenshots/2.png)
+[Alt text](https://github.com/JellyWong/AQIquery/raw/master/screenshots/3.png)
